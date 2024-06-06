@@ -1,5 +1,3 @@
-# simple-speech-detection
-
 *The purpose of this project is to test and flesh out a feature (speech detection) for another project.*
 
 # Simple Speech Detection
